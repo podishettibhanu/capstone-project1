@@ -398,3 +398,16 @@ git merge feature/zepto-ai-platform
 ## License
 
 This project was created as an academic capstone project for educational purposes.
+## Current Project Status
+
+The capstone project is currently under development.
+
+Completed modules:
+- Data Pipeline
+- Titanic Analytics
+- Support Assistant knowledge base
+
+Upcoming work:
+- Complete Support Assistant
+- Test all modules
+- Final documentation
